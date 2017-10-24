@@ -1,0 +1,16 @@
+{
+    "name": "type-kun",
+    "description": "This is your Botkit-powered bot.",
+    "keywords": [
+    "Botkit",
+    "bot",
+    "Slack"
+  ],
+    "repository": "https://github.com/type-kun-type/type-kun",
+    "env": {
+        "token": {
+            "description": "",
+            "value": ""
+        }
+    }
+}
